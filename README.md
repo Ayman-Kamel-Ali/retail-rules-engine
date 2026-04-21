@@ -1,7 +1,5 @@
 # Retail Rules Engine (Scala Functional Programming)
 
-**Ayman Kamel | Intake 46 | DM Track**
-
 ## Project Overview
 
 This project is a high-performance, functionally pure rule engine built in Scala. It processes retail transactions from a CSV file with 10M rows, evaluates them against a series of qualifying discount rules, calculates the final price, logs the engine's events, and persists the processed data into a relational database.
